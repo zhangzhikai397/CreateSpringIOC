@@ -1,4 +1,4 @@
-package com.huawei;
+package com.springframework;
 
 import static org.junit.Assert.assertTrue;
 
